@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"spoolscout","appId":"1:280911399663:android:34c336e7df25232543a91a","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"spoolscout","configurations":{"android":"1:280911399663:android:34c336e7df25232543a91a","web":"1:280911399663:web:7c49dac9ae1fdca143a91a"}}}}}}

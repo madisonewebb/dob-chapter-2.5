@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "280911399663",
+    "project_id": "spoolscout",
+    "storage_bucket": "spoolscout.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280911399663:android:34c336e7df25232543a91a",
+        "android_client_info": {
+          "package_name": "com.example.spoolscout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280911399663-as72eg8g4rei1tedjdrgafog3njn8dt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spoolscout",
+            "certificate_hash": "52694c43a4bcc91a856e20777ce13ac58b0268b3"
+          }
+        },
+        {
+          "client_id": "280911399663-vjqi2455k1i52unuu6dv5rhadeqj8jjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spoolscout",
+            "certificate_hash": "7da71fcc9bc60a5b8a110aee589702e3a2ca87db"
+          }
+        },
+        {
+          "client_id": "280911399663-iq4epivbb2q42q6aklen9edn3v6uf7sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZSvp_wsHEd8hkhSNQd4SgiJrrv65PopE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280911399663-iq4epivbb2q42q6aklen9edn3v6uf7sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
